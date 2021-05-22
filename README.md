@@ -1,0 +1,2 @@
+# Predicting Employee Attrition using Machine Learning
+ In this project, I created a model that predicts whether an employee will leave his employment or not. The model is dependent on some features such as age, monthly income, number of years worked, gender etc. The data was sourced from Kaggle and the type of machine learnig used is Supervised machine learning. ForestTreeClassifier was used for the machine learning model and all codes are in python.
